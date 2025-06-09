@@ -417,7 +417,7 @@
           data-animation="fade-in-up"
           data-delay="150"
         >
-          Bergabunglah dengan HealthHub hari ini dan dapatkan akses penuh ke
+          Bergabunglah dengan FitFromHome hari ini dan dapatkan akses penuh ke
           semua fitur, konten eksklusif, dan dukungan komunitas.
         </p>
         <div
@@ -440,7 +440,7 @@
       <div class="container mx-auto px-6 lg:px-8">
         <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-10">
           <div>
-            <h4 class="text-xl font-semibold text-white mb-4">HealthHub</h4>
+            <h4 class="text-xl font-semibold text-white mb-4">FitFromHome</h4>
             <p class="text-sm leading-relaxed">
               Membantu Anda mencapai versi terbaik diri Anda melalui kesehatan
               dan kebugaran yang berkelanjutan.
@@ -535,7 +535,7 @@
         </div>
         <hr class="my-10 border-gray-700" />
         <p class="text-xs text-gray-500 text-center">
-          &copy; {{ new Date().getFullYear() }} HealthHub. Semua Hak Dilindungi.
+          &copy; {{ new Date().getFullYear() }} FitFromHome. Semua Hak Dilindungi.
         </p>
       </div>
     </footer>
