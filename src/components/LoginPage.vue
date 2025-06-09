@@ -4,14 +4,14 @@
     <div
       class="hidden lg:flex flex-col justify-center items-center p-12 bg-cover bg-center relative"
       style="
-        background-image: url('https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1920&q=80');
+        background-image: url('/public/ftr.jpg');
       "
     >
       <div
         class="absolute inset-0 bg-gradient-to-br from-[rgba(0,119,137,1)] to-[rgba(0,80,95,1)] opacity-90"
       ></div>
       <div class="relative text-white text-center z-10 animate-on-load">
-        <h1 class="text-4xl font-bold mb-4">HealthHub</h1>
+        <h1 class="text-4xl font-bold mb-4">FitFromHome</h1>
         <p class="text-xl max-w-sm">
           Selamat datang kembali! Lanjutkan perjalanan kesehatan Anda bersama
           kami.
@@ -28,7 +28,7 @@
         <h1
           class="text-3xl font-bold text-center text-[rgba(0,119,137,1)] mb-8 lg:hidden"
         >
-          HealthHub Login
+          FitFromHome Login
         </h1>
 
         <div class="bg-white p-8 rounded-2xl shadow-xl">
